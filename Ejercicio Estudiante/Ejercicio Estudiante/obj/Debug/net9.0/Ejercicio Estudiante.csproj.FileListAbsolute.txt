@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\bin\Debug\net9.0\Ejercicio Estudiante.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\bin\Debug\net9.0\Ejercicio Estudiante.deps.json
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\bin\Debug\net9.0\Ejercicio Estudiante.runtimeconfig.json
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\bin\Debug\net9.0\Ejercicio Estudiante.dll
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\bin\Debug\net9.0\Ejercicio Estudiante.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\Ejercicio Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\Ejercicio Estudiante.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\Ejercicio Estudiante.AssemblyInfo.cs
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\Ejercicio Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\Ejercicio Estudiante.dll
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\refint\Ejercicio Estudiante.dll
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\Ejercicio Estudiante.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\Ejercicio Estudiante.genruntimeconfig.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 5\Ejercicio Estudiante\Ejercicio Estudiante\obj\Debug\net9.0\ref\Ejercicio Estudiante.dll

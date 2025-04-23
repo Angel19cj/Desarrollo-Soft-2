@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\bin\Debug\StudentGradeAPP.exe.config
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\bin\Debug\StudentGradeAPP.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\bin\Debug\StudentGradeAPP.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\obj\Debug\StudentGradeAPP.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\obj\Debug\StudentGradeAPP.Form1.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\obj\Debug\StudentGradeAPP.Properties.Resources.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\obj\Debug\StudentGradeAPP.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\obj\Debug\StudentGradeAPP.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\obj\Debug\StudentGradeAPP.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\StudentGradeAPP\StudentGradeAPP\obj\Debug\StudentGradeAPP.pdb

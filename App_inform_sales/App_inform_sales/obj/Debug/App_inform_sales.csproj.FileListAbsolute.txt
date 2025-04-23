@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\obj\Debug\App_inform_sales.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\obj\Debug\App_inform_sales.Form1.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\obj\Debug\App_inform_sales.Properties.Resources.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\obj\Debug\App_inform_sales.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\obj\Debug\App_inform_sales.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\bin\Debug\App_inform_sales.exe.config
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\bin\Debug\App_inform_sales.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\bin\Debug\App_inform_sales.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\obj\Debug\App_inform_sales.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\App_inform_sales\App_inform_sales\obj\Debug\App_inform_sales.pdb

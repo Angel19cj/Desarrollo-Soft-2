@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 7\\App_inform_sales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4448DA7A-1018-464A-B9C8-FE8C5F9D37F2}|App_inform_sales\\App_inform_sales.csproj|c:\\users\\angel\\source\\repos\\desarrollo_2\\ejercicio 7\\app_inform_sales\\app_inform_sales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4448DA7A-1018-464A-B9C8-FE8C5F9D37F2}|App_inform_sales\\App_inform_sales.csproj|solutionrelative:app_inform_sales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4448DA7A-1018-464A-B9C8-FE8C5F9D37F2}|App_inform_sales\\App_inform_sales.csproj|c:\\users\\angel\\source\\repos\\desarrollo_2\\ejercicio 7\\app_inform_sales\\app_inform_sales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4448DA7A-1018-464A-B9C8-FE8C5F9D37F2}|App_inform_sales\\App_inform_sales.csproj|solutionrelative:app_inform_sales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 7\\App_inform_sales\\App_inform_sales\\Form1.cs",
+              "RelativeDocumentMoniker": "App_inform_sales\\Form1.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 7\\App_inform_sales\\App_inform_sales\\Form1.cs",
+              "RelativeToolTip": "App_inform_sales\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:58:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 7\\App_inform_sales\\App_inform_sales\\Form1.cs",
+              "RelativeDocumentMoniker": "App_inform_sales\\Form1.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 7\\App_inform_sales\\App_inform_sales\\Form1.cs [Design]",
+              "RelativeToolTip": "App_inform_sales\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:22:10.894Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

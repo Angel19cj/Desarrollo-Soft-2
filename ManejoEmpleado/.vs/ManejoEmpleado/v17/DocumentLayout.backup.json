@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 4\\ManejoEmpleado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314710B6-E204-496C-B5FA-FF16DB23A607}|ManejoEmpleado\\ManejoEmpleado.csproj|c:\\users\\angel\\source\\repos\\desarrollo_2\\ejercicio 4\\manejoempleado\\manejoempleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314710B6-E204-496C-B5FA-FF16DB23A607}|ManejoEmpleado\\ManejoEmpleado.csproj|solutionrelative:manejoempleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314710B6-E204-496C-B5FA-FF16DB23A607}|ManejoEmpleado\\ManejoEmpleado.csproj|c:\\users\\angel\\source\\repos\\desarrollo_2\\ejercicio 4\\manejoempleado\\manejoempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314710B6-E204-496C-B5FA-FF16DB23A607}|ManejoEmpleado\\ManejoEmpleado.csproj|solutionrelative:manejoempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 4\\ManejoEmpleado\\ManejoEmpleado\\Empleado.cs",
+              "RelativeDocumentMoniker": "ManejoEmpleado\\Empleado.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 4\\ManejoEmpleado\\ManejoEmpleado\\Empleado.cs",
+              "RelativeToolTip": "ManejoEmpleado\\Empleado.cs",
+              "ViewState": "AgIAAHUAAADAy8zMzAwmwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:35:35.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 4\\ManejoEmpleado\\ManejoEmpleado\\Program.cs",
+              "RelativeDocumentMoniker": "ManejoEmpleado\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 4\\ManejoEmpleado\\ManejoEmpleado\\Program.cs",
+              "RelativeToolTip": "ManejoEmpleado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:25:12.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

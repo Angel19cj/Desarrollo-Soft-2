@@ -1,0 +1,13 @@
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\bin\Debug\Tarea de Listas.exe.config
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\bin\Debug\Tarea de Listas.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\bin\Debug\Tarea de Listas.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea de Listas.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea_de_Listas.Form1.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea_de_Listas.Properties.Resources.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea de Listas.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea de Listas.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea de Listas.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea de Listas.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\bin\Debug\AWSSDK.dll
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\bin\Debug\AWSSDK.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Tarea de Listas\Tarea de Listas\obj\Debug\Tarea de.4D522518.Up2Date

@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\obj\Debug\Tarea calculadora de temperatura.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\obj\Debug\Tarea_calculadora_de_temperatura.Form1.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\obj\Debug\Tarea_calculadora_de_temperatura.Properties.Resources.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\obj\Debug\Tarea calculadora de temperatura.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\obj\Debug\Tarea calculadora de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\bin\Debug\Tarea calculadora de temperatura.exe.config
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\bin\Debug\Tarea calculadora de temperatura.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\bin\Debug\Tarea calculadora de temperatura.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\obj\Debug\Tarea calculadora de temperatura.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 3\Tarea calculadora de temperatura\Tarea calculadora de temperatura\obj\Debug\Tarea calculadora de temperatura.pdb

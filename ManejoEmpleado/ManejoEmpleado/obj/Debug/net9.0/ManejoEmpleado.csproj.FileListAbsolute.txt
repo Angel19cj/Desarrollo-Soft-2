@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\bin\Debug\net9.0\ManejoEmpleado.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\bin\Debug\net9.0\ManejoEmpleado.deps.json
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\bin\Debug\net9.0\ManejoEmpleado.runtimeconfig.json
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\bin\Debug\net9.0\ManejoEmpleado.dll
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\bin\Debug\net9.0\ManejoEmpleado.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ManejoEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ManejoEmpleado.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ManejoEmpleado.AssemblyInfo.cs
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ManejoEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ManejoEmpleado.dll
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\refint\ManejoEmpleado.dll
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ManejoEmpleado.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ManejoEmpleado.genruntimeconfig.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 4\ManejoEmpleado\ManejoEmpleado\obj\Debug\net9.0\ref\ManejoEmpleado.dll

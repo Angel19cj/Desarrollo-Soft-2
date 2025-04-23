@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\bin\Debug\Microondas.exe.config
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\bin\Debug\Microondas.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\bin\Debug\Microondas.pdb
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\obj\Debug\Microondas.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\obj\Debug\Microondas.Form1.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\obj\Debug\Microondas.Properties.Resources.resources
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\obj\Debug\Microondas.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\obj\Debug\Microondas.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\obj\Debug\Microondas.exe
+C:\Users\angel\source\repos\desarrollo_2\Ejercicio 7\Microondas\Microondas\obj\Debug\Microondas.pdb

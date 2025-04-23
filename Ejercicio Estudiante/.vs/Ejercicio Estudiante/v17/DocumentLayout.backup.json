@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 5\\Ejercicio Estudiante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA1B27B-74AD-4B71-BE9B-E408950558A8}|Ejercicio Estudiante\\Ejercicio Estudiante.csproj|c:\\users\\angel\\source\\repos\\desarrollo_2\\ejercicio 5\\ejercicio estudiante\\ejercicio estudiante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA1B27B-74AD-4B71-BE9B-E408950558A8}|Ejercicio Estudiante\\Ejercicio Estudiante.csproj|solutionrelative:ejercicio estudiante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 5\\Ejercicio Estudiante\\Ejercicio Estudiante\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Estudiante\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\desarrollo_2\\Ejercicio 5\\Ejercicio Estudiante\\Ejercicio Estudiante\\Program.cs",
+              "RelativeToolTip": "Ejercicio Estudiante\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:08:18.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
